@@ -17,3 +17,4 @@ I used ColumnTransformer to implement a preprocessing step in order to prepare t
 After that, I investigated the Random Forest Regressor and Linear Regression models. To assess the performance of the model, I divided the dataset into training and testing sets (80% training, 20% testing). Each model was trained independently, and then predictions were made using the test set. Each model's performance was assessed using the Mean Squared Error (MSE), Mean Absolute Error (MAE), and R2 score.After evaluating the two models to determine which one performed best, I selected the one with the highest R2 score. The evaluation metrics were displayed for the selected final model.*
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/3b759477-20d9-421b-be8d-6bbafb159ec3)
